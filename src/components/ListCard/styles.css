@@ -1,0 +1,9 @@
+.card {
+  width: 250px;
+  margin-left: 15px;
+}
+
+.list-card{
+  width: 500px;
+  border-radius: 1px solid #000;
+}
