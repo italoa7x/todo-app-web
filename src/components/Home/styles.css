@@ -1,0 +1,7 @@
+.container-list{
+  display: flex;
+  flex-direction: row;
+  padding-top: 5px;
+  margin: 5px;
+  flex-wrap: wrap;
+}
