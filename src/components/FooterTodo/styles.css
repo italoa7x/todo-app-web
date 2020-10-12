@@ -13,6 +13,7 @@
 .button-todo {
   display: flex;
   flex-direction: row;
-  margin: 5px;
+  margin: 9px;
   margin-top: -30px;
+  padding: 5px;
 }

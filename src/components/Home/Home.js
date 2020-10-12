@@ -1,12 +1,10 @@
 import React from "react";
 import Todo from "../Todo/Todo";
-import Menu from "../Menu/Menu";
 
 import "./styles.css";
 
 const Home = () => (
   <div>
-    <Menu />
     <div className="container-list">
       <Todo title="Ir ao médico" content="Fazer examesFazer exames" dateInit="07/09/2020"/>
       <Todo title="Fazer compras" content="comprar leite e pão" dateInit="07/09/2020"/>
